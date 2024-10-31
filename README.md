@@ -1,1 +1,1 @@
-Este projeto utiliza o ASP.NET Core Identity para gerenciar o registro e autenticação de usuários em uma aplicação web. O objetivo é implementar um sistema seguro e escalável que permita aos usuários se cadastrarem, fazer login e gerenciar suas informações de perfil com segurança.
+This project uses ASP.NET Core Identity to manage user registration and authentication in a web application. The goal is to implement a secure and scalable system that allows users to register, login and manage their profile information securely.
